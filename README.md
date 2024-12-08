@@ -33,10 +33,11 @@ The Health Cure System is a powerful AI-driven web application that enables the 
 # 📂 Project Structure
 
 Copy code
-├── static/                 # Static assets (CSS, JS, images)  
-├── templates/              # HTML templates for Flask app  
-├── models/                 # Pre-trained models for disease detection  
-├── uploads/                # Directory for uploaded health reports  
-├── app.py                  # Flask application entry point  
-├── requirements.txt        # Python dependencies  
-├── README.md               # Project documentation  
+
+├── static/                                            # Static assets (CSS, JS, images)  
+├── templates/                                         # HTML templates for Flask app  
+├── models/                                            # Pre-trained models for disease detection  
+├── uploads/                                           # Directory for uploaded health reports  
+├── app.py                                             # Flask application entry point  
+├── requirements.txt                                   # Python dependencies  
+├── README.md                                          # Project documentation  
