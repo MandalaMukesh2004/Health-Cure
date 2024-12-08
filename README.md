@@ -44,7 +44,7 @@ Copy code
 
 # 📦 Installation Guide
 # Step 1: Clone the Repository
-git clone https://github.com/your-username/health-cure-system.git
+git clone https://github.com/MandalaMukesh2004/health-cure-system.git
 cd health-cure-system
 # Step 2: Create and Activate the Environment
 conda create -n healthcure python=3.9.13
